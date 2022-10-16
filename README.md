@@ -1,5 +1,5 @@
-## Olá, bem-vindo ao meu perfil!
-### Bruno Leandro Pereira  
+### Olá, bem-vindo ao meu perfil!
+## Bruno Leandro Pereira  
 📚 Ciência da Computação - UFSCar
 <div>
   <a href="https://github.com/brunol-pereira">
