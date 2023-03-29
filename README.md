@@ -8,7 +8,7 @@
  <br/>
  <p>Tenho grande interesse em desenvolvimento web, fico fascinado com a amplitude dessa área. É desafiador, mas ao mesmo tempo empolgante, pensar em poder trabalhar em projetos que podem ter um grande impacto na vida das pessoas. Desde que comecei a estudar essa área, percebi que existem infinitas possibilidades de criação e inovação, o que me motiva a me aprimorar cada vez mais.
   
-  Atualmente, tenho dedicado boa parte do meu tempo livre para estudar e aprimorar minhas habilidades nessa área. Essas são algumas das linguagens que mais tenho estudado ultimamente:<p/>
+  Atualmente, tenho dedicado boa parte do meu tempo livre para estudar e aprimorar minhas habilidades nessa área. Essas são algumas das linguagens e tecnologias que mais tenho estudado ultimamente:<p/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
