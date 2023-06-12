@@ -3,7 +3,6 @@
 📚 Estudante de Ciência da Computação - UFSCar
 <div>
   <a href="https://github.com/brunol-pereira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunol-pereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
  <br/>
  <p>Tenho grande interesse em desenvolvimento web, fico fascinado com a amplitude dessa área. É desafiador, mas ao mesmo tempo empolgante, pensar em poder trabalhar em projetos que podem ter um grande impacto na vida das pessoas. Desde que comecei a estudar essa área, percebi que existem infinitas possibilidades de criação e inovação, o que me motiva a me aprimorar cada vez mais.
