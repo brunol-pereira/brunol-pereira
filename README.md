@@ -1,4 +1,3 @@
-### Olá, bem-vindo ao meu perfil!
 ## Bruno Leandro Pereira  
 📚 Estudante de Ciência da Computação - UFSCar
 <div>
